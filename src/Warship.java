@@ -15,7 +15,7 @@ public final class Warship extends Ship{
 
     @Override
     public void makeSignal() {
-        System.out.println("ТУУУ ТУУУ");
+        System.out.println("ТРУУУ ТРУУУ");
     }
 
     @Override

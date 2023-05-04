@@ -13,7 +13,7 @@ public class Main {
         warship1.makeSignal();
         warship1.makeSignal(3);
 
-        Warship warship2 = new Warship(ColorEnum.BLUE, 2020, "Voryag", coords1, 100);
+        Warship warship2 = new Warship(ColorEnum.BLUE, 2020, "Akula", coords1, 100);
         System.out.println(warship2.printInfo());
         warship2.makeSignal();
         warship2.makeSignal(4);
